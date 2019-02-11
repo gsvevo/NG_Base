@@ -1,10 +1,11 @@
-This project will focus on visualizing the shared experiences of refugees through stories. Rather than just use data to educate the audience about the refugee, the goal is to help the audience understand the challenges and experiences that a refugee might go through. We will use interviews, maps, social media data and other reports to share these experiences. The intended audience for this webtool will be internet users, social media consumers, and national geographic subscribers.
+## Myanmar.geojson
 
-Possible data sources:
+This geojson file contains the administrative boundaries of Myanmar, one of the countries I will examine for my final project.
 
-National Geographic 
-UNHCR 
-instagram
-Twitter
-IOM 
-News Media
+#### Comparison table
+
+| Name | Size|
+| :--- | :--- |
+| myanmar.geojson | 8,608 kB                     |
+| myanmar_simplified.geojson | 776 kB |
+| myanmar.topojson | 281 kB |
